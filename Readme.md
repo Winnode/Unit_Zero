@@ -7,7 +7,7 @@ Unix Winsnip is a Python script for sending multiple Ethereum transactions using
 
 ## Features
 
-- Send Ethereum transactions using multiple accounts
+- Send Unit transactions using multiple accounts
 - Randomized delays between transactions
 - Customizable configurations via `config.json`
 - Logs with timestamp, info, success, warning, and error levels
