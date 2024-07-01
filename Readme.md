@@ -42,7 +42,7 @@ pip install requests python-dotenv eth-account colorama pyfiglet
 ### Edit .env
 
 ```bash
-mv .env_sampe .env
+nano .env
 ```
 
 ```bash
