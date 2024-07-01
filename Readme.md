@@ -12,7 +12,6 @@ Unix Winsnip is a Python script for sending multiple Ethereum transactions using
 - Customizable configurations via `config.json`
 - Logs with timestamp, info, success, warning, and error levels
 - Environment variable loading with `.env` support
-- Interactive banner and password prompt for access control
 
 ## Installation
 
