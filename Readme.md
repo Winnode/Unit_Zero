@@ -24,6 +24,7 @@ Unix Winsnip is a Python script for sending multiple Ethereum transactions using
 
 ```bash
 git clone https://github.com/Winnode/Unit_Zero.git
+cd Unit_Zero
 ```
 
 ### Dependencies
